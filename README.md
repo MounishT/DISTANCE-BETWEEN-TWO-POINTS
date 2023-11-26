@@ -30,3 +30,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Thus the distance between two variable two points are succcesfully excuted
