@@ -10,7 +10,7 @@ Define Coordinates for Two Points
 ### Step 3:
  Calculate the Distance
 ### Step 4:
-Print the Result
+substiuate the values in distances formula
 ### Step 5:
 dispaly  the Result
 ### PROGRAM:
